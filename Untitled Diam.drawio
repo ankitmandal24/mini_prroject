@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T17:59:34.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GMBMsSjibf3vXNLaI2_R" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T18:02:25.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wMYszrJRT_e5EOv41DnJ" version="24.4.0" type="github">
   <diagram name="Page-1" id="4gAsuJwyxFiTD94uo9k4">
     <mxGraphModel dx="875" dy="474" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,27 @@
         </mxCell>
         <mxCell id="pOnptlD20K87jXzJHfgA-40" value="analysing the&amp;nbsp;&lt;div&gt;disease from the report&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnptlD20K87jXzJHfgA-44" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="410" y="820" as="sourcePoint" />
+            <mxPoint x="470" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOnptlD20K87jXzJHfgA-45" value="predicting the&amp;nbsp;&lt;div&gt;chronic disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnptlD20K87jXzJHfgA-46" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" target="pOnptlD20K87jXzJHfgA-47">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="580" y="820" as="sourcePoint" />
+            <mxPoint x="680" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOnptlD20K87jXzJHfgA-47" value="Detailed Report&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnptlD20K87jXzJHfgA-48" value="Download" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="820" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

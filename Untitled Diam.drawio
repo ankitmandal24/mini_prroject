@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T18:48:04.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bYufy3C1wFl3q2epdYSC" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T18:49:33.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-Q1A-QTPEnIqKdBzWYWv" version="24.4.0" type="github">
   <diagram name="Page-1" id="4gAsuJwyxFiTD94uo9k4">
-    <mxGraphModel dx="1500" dy="813" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="3686" dy="1626" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pOnptlD20K87jXzJHfgA-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="390" width="640" height="60" as="geometry" />
+        <mxCell id="pOnptlD20K87jXzJHfgA-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="440" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="560" width="640" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="760" width="640" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-36" value="chronic disease&amp;nbsp;&lt;div&gt;classfication&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-36" value="chronic disease&amp;nbsp;&lt;div&gt;classfication&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pOnptlD20K87jXzJHfgA-40" value="analysing the&amp;nbsp;&lt;div&gt;retinal features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -62,19 +62,28 @@
           <mxGeometry x="1020" y="710" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K06i48sgx8T4ejIASsgh-2" value="Detailed report of&amp;nbsp; retinal features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="580" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K06i48sgx8T4ejIASsgh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-3" target="K06i48sgx8T4ejIASsgh-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M1_JXk1Tt3_QBtWWeWjV-102" value="PATIENT RECORD CREATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="890" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K06i48sgx8T4ejIASsgh-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Retinal Image&lt;div&gt;Input&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K06i48sgx8T4ejIASsgh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-4" target="K06i48sgx8T4ejIASsgh-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K06i48sgx8T4ejIASsgh-4" value="analysis of Retinal Images using CNNs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="580" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K06i48sgx8T4ejIASsgh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-5" target="K06i48sgx8T4ejIASsgh-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K06i48sgx8T4ejIASsgh-5" value="prediction of diseases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K06i48sgx8T4ejIASsgh-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-2" target="pOnptlD20K87jXzJHfgA-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,16 +91,28 @@
             <mxPoint x="420" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K06i48sgx8T4ejIASsgh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-13" target="K06i48sgx8T4ejIASsgh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pOnptlD20K87jXzJHfgA-60" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="240" y="610" as="sourcePoint" />
             <mxPoint x="280" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K06i48sgx8T4ejIASsgh-13" value="PreProcessing of Retinal Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="pOnptlD20K87jXzJHfgA-61" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="400" y="610" as="sourcePoint" />
             <mxPoint x="450" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K06i48sgx8T4ejIASsgh-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="750" as="sourcePoint" />
+            <mxPoint x="700" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOnptlD20K87jXzJHfgA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pOnptlD20K87jXzJHfgA-34" target="pOnptlD20K87jXzJHfgA-34">

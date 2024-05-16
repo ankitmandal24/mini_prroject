@@ -1,110 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T18:52:26.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Bl_087BiWZSvpZtubyS4" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T16:38:16.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_Ah88Rla22Nrdim8fnWG" version="24.4.2" type="github">
   <diagram name="Page-1" id="4gAsuJwyxFiTD94uo9k4">
-    <mxGraphModel dx="1313" dy="643" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="2738" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pOnptlD20K87jXzJHfgA-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="440" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="560" width="640" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="760" width="640" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-36" value="chronic disease&amp;nbsp;&lt;div&gt;classfication&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-36" value="chronic disease&amp;nbsp;&lt;div&gt;classfication&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-40" value="analysing the&amp;nbsp;&lt;div&gt;retinal features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-40" value="analysing the&amp;nbsp;&lt;div&gt;retinal features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-44" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-44" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="410" y="820" as="sourcePoint" />
             <mxPoint x="470" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-90" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-90" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1620" y="580" width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-45" value="predicting the&amp;nbsp;&lt;div&gt;chronic disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-45" value="predicting the&amp;nbsp;&lt;div&gt;chronic disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-46" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" target="pOnptlD20K87jXzJHfgA-47">
+        <mxCell id="pOnptlD20K87jXzJHfgA-46" value="" style="shape=link;html=1;rounded=0;" parent="1" target="pOnptlD20K87jXzJHfgA-47" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="580" y="820" as="sourcePoint" />
             <mxPoint x="680" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-47" value="Detailed Report&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-47" value="Detailed Report&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-52" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-52" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="250" y="820" as="sourcePoint" />
             <mxPoint x="290" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-100" value="PATIENT RECORD CREATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-100" value="PATIENT RECORD CREATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="580" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-101" value="PATIENT FUNDUS SCAN AND OTHER FACTORS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-101" value="PATIENT FUNDUS SCAN AND OTHER FACTORS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="710" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-2" value="Detailed report of&amp;nbsp; retinal features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K06i48sgx8T4ejIASsgh-2" value="Detailed report of&amp;nbsp; retinal features" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="580" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-3" target="K06i48sgx8T4ejIASsgh-13">
+        <mxCell id="K06i48sgx8T4ejIASsgh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K06i48sgx8T4ejIASsgh-3" target="K06i48sgx8T4ejIASsgh-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-102" value="PATIENT RECORD CREATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1_JXk1Tt3_QBtWWeWjV-102" value="PATIENT RECORD CREATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="890" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Retinal Image&lt;div&gt;Input&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K06i48sgx8T4ejIASsgh-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Retinal Image&lt;div&gt;Input&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-4" target="K06i48sgx8T4ejIASsgh-5">
+        <mxCell id="K06i48sgx8T4ejIASsgh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K06i48sgx8T4ejIASsgh-4" target="K06i48sgx8T4ejIASsgh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-4" value="analysis of Retinal Images using CNNs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K06i48sgx8T4ejIASsgh-4" value="analysis of Retinal Images using CNNs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="580" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-5" target="K06i48sgx8T4ejIASsgh-2">
+        <mxCell id="K06i48sgx8T4ejIASsgh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K06i48sgx8T4ejIASsgh-5" target="K06i48sgx8T4ejIASsgh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-5" value="prediction of diseases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K06i48sgx8T4ejIASsgh-5" value="prediction of diseases" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-2" target="pOnptlD20K87jXzJHfgA-40">
+        <mxCell id="K06i48sgx8T4ejIASsgh-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="K06i48sgx8T4ejIASsgh-2" target="pOnptlD20K87jXzJHfgA-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="710" as="sourcePoint" />
             <mxPoint x="420" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-13" target="K06i48sgx8T4ejIASsgh-4">
+        <mxCell id="K06i48sgx8T4ejIASsgh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K06i48sgx8T4ejIASsgh-13" target="K06i48sgx8T4ejIASsgh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-60" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pOnptlD20K87jXzJHfgA-60" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="240" y="610" as="sourcePoint" />
             <mxPoint x="280" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K06i48sgx8T4ejIASsgh-13" target="K06i48sgx8T4ejIASsgh-3">
+        <mxCell id="pOnptlD20K87jXzJHfgA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K06i48sgx8T4ejIASsgh-13" target="K06i48sgx8T4ejIASsgh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-13" value="PreProcessing of Retinal Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K06i48sgx8T4ejIASsgh-13" value="PreProcessing of Retinal Image" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K06i48sgx8T4ejIASsgh-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="K06i48sgx8T4ejIASsgh-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="750" as="sourcePoint" />
             <mxPoint x="700" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnptlD20K87jXzJHfgA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pOnptlD20K87jXzJHfgA-34" target="pOnptlD20K87jXzJHfgA-34">
+        <mxCell id="pOnptlD20K87jXzJHfgA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pOnptlD20K87jXzJHfgA-34" target="pOnptlD20K87jXzJHfgA-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oheozWN3W7zVZntpl-C-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1oheozWN3W7zVZntpl-C-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1180" width="810" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1oheozWN3W7zVZntpl-C-4" value="User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-1160" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
